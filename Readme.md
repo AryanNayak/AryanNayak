@@ -1,3 +1,4 @@
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=AryanNayak" alt="Aryan" /> </p>
 <p align="center">  </p>
 
 
