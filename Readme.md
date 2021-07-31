@@ -5,7 +5,7 @@
 
 # <h1 align="center">I'm Aryan Nayak 👋</h1> 
 
-<p align ="center"><img  alt="sup?" src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" >
+
   
 
 
@@ -42,4 +42,4 @@
  </p>
 
 
-⭐️ From [anushka-2001](https://github.com/anushka-2001)
+⭐️ From [Aryan Nayak](https://github.com/AryanNayak)
